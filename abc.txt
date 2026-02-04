@@ -1,0 +1,10 @@
+Python uses open() to open a file for reading, writing, or appending.
+The read() method is used to read the entire content of a file.
+The write() method writes data into a file.
+The close() method closes the file and frees system resources.
+File modes like 'r', 'w', 'a', and 'x' specify how a file is accessed.
+The with statement automatically closes the file after use.
+readline() reads one line from a file at a time.
+input() is used to take user input from the keyboard.
+print() is used to display output on the screen.
+File I/O allows Python programs to permanently store data.
