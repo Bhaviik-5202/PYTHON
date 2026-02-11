@@ -1,0 +1,6 @@
+RollNo, Name, Average
+801,  Bhaviik, 99.00
+801,  Devanshu, 100.00
+801,  Goli, 16.67
+801,  Jal, 80.00
+801,  Narola, 50.00
